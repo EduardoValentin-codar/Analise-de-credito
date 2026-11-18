@@ -1,5 +1,7 @@
 # 💳 Simulador de Aprovação de Crédito com Random Forest
 
+https://blank-app-8v9vm72liol.streamlit.app/
+
 Projeto da disciplina de **Mineração de Dados** (UNEX). Site em Streamlit que simula a análise de crédito bancário usando o algoritmo **Random Forest**.
 
 
